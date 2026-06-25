@@ -1,10 +1,38 @@
+# Project
 garmin.db
-**/__pycache__/
-*.pyc
-.env
-.env.*
-node_modules/
-frontend/dist/
-.DS_Store
 .upload_*
 data/
+frontend/dist/
+node_modules/
+
+# Python
+__pycache__/
+*.py[codz]
+*$py.class
+*.so
+.Python
+build/
+dist/
+*.egg-info/
+.eggs/
+*.egg
+.venv
+venv/
+ENV/
+.env
+.env.*
+.envrc
+*.log
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# OS / IDE
+.DS_Store
+.idea/
+.vscode/
+
+# Temp
+tempCodeRunnerFile.py
