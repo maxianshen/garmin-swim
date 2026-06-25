@@ -1,0 +1,10 @@
+garmin.db
+**/__pycache__/
+*.pyc
+.env
+.env.*
+node_modules/
+frontend/dist/
+.DS_Store
+.upload_*
+data/
